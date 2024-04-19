@@ -8,8 +8,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <div className="App">
-      asdl;fja;sl
+    <div className="App"> 
+      <NavBar></NavBar>
+      <Banner></Banner>
+
 
 
     </div>
@@ -17,4 +19,4 @@ function App() {
 }
 
 export default App;
- 
+  
